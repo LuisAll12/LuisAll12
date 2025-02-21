@@ -79,4 +79,6 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
         <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/luis_sui1866/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a>
         <a target="_blank" href="https://www.dribbble.com/LuisAll12" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=#ea64d9" alt="dribbble" /></a>
 </div>
+#### or Mail:
+### Luis@g-12.ch
 
