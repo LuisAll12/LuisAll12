@@ -38,8 +38,8 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
 <br>
 <div class="currentOG" style="display: flex; align-items: center; justify-content: center; flex-direction: row; flex-wrap: wrap; gap: 30px">
     <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
-        <a href="https://beruf.lu.ch/Berufslehre/Berufslehre_im_Betrieb/Berufsfachschule/berufsbildungszentren/fmz/fmz_ausbildung/Informatikmittelschule" style="background: #fff; width: 90%; border-radius: 18px; padding: 15px;">
-            <img width="300px" alt="Followers" title="Follow me on GitHub" src="https://www.bernhackt.ch/_astro/transgourmet-transp.VLHW25Ch_Z2doVpP.webp" style="max-width: 100%;">
+        <a href="https://www.transgourmet.ch/de/pg/" style="background: #fff; width: 90%; border-radius: 18px; padding: 15px;">
+            <img width="300px" alt="Followers" title="Follow me on GitHub" src="https://www-static.transgourmet.ch/public/2020-10/logo-transgourmet-prodega-2400-1260.png" style="max-width: 100%;">
         </a>
     </div>
         <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
