@@ -73,6 +73,7 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
     <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAll12&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <h2 style="display: flex; align-items: center; justify-content: center; "> ⚡️ Where to find me</h2>
 <div class="currentOG" style="display: flex; align-items: center; justify-content: center; flex-direction: row; flex-wrap: wrap; gap: 30px">
