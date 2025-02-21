@@ -29,7 +29,7 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
 
 ---
 
-<h2 align="center">⚡️ Where to find me</h2>
+<h2 align="center">⚡️ How to contact me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/luis-allamand-b01637352" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" />
