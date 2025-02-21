@@ -12,7 +12,7 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
   <div style="flex: 1;">
     <h2> 🚀 About Me </h2>
     <ul>
-      <li>🎯 🌱 I am currently working on <strong>developing my programming skills</strong>.</li>
+      <li>🌱 I am currently working on <strong>developing my programming skills</strong>.</li>
       <li>📖 Learning <strong>Software Development</strong></li>
       <li>💬 Ask me about <strong>VueJs, C# and SQL</strong></li>
       <li>⚡ Fun fact: <strong>I still like my cat more than git</strong></li>
