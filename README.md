@@ -4,7 +4,7 @@
   <h1>Hi there! I'm Luis Allamand 👋</h1>
 </div>
 
-I'm a **Junior Software Developer** and currently completing my apprenticeship at the **Informaticschool(IMS)** in **Lucerne**. I love working on **Websites and Desktop apps**, **Learning new stuff**, and **building cool projects**.
+I'm a **Junior Software Developer** and currently completing my apprenticeship at the **Informatikmittelschule(IMS)** in **Lucerne**. I love working on **Websites and Desktop apps**, **Learning new stuff**, and **building cool projects**.
 
 ---
 
