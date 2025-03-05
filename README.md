@@ -8,7 +8,7 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
 
 ---
 
-<div style="display: flex; align-items: center;">
+<div align="center" style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h2> 🚀 About Me </h2>
     <ul>
@@ -18,7 +18,7 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
       <li>⚡ Fun fact: <strong>I still like my cat more than git</strong></li>
     </ul>
   </div>
-  <div align="center">
+  <div>
     <img width="300px" alt="Followers" title="Follow me on GitHub" src="https://images.unsplash.com/photo-1505238680356-667803448bb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="max-width: 100%;">
   </div>
 </div>
