@@ -8,7 +8,7 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
 
 ---
 
-<div align="center" style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h2> 🚀 About Me </h2>
     <ul>
