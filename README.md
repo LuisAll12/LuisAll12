@@ -12,10 +12,10 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
   <tr>
     <td>
     ### 🚀 About Me 
-      🌱 I am currently working on <strong>developing my programming skills</strong>.
-      📖 Learning <strong>Software Development</strong>
-      💬 Ask me about <strong>VueJs, C# and SQL</strong>
-      ⚡ Fun fact: <strong>I still like my cat more than git</strong>
+      #### 🌱 I am currently working on <strong>developing my programming skills</strong>.
+      #### 📖 Learning <strong>Software Development</strong>
+      #### 💬 Ask me about <strong>VueJs, C# and SQL</strong>
+      #### ⚡ Fun fact: <strong>I still like my cat more than git</strong>
     </td>
     <td>
     <img width="300" alt="Followers" title="Follow me on GitHub" src="https://images.unsplash.com/photo-1505238680356-667803448bb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="max-width: 100%;">
