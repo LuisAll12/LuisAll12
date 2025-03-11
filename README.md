@@ -8,20 +8,20 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
 
 ---
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <h2> 🚀 About Me </h2>
-    <ul>
-      <li>🌱 I am currently working on <strong>developing my programming skills</strong>.</li>
-      <li>📖 Learning <strong>Software Development</strong></li>
-      <li>💬 Ask me about <strong>VueJs, C# and SQL</strong></li>
-      <li>⚡ Fun fact: <strong>I still like my cat more than git</strong></li>
-    </ul>
-  </div>
-  <div style="margin-left: 20px;">
+<table>
+  <tr>
+    <td>
+    ### 🚀 About Me 
+      🌱 I am currently working on <strong>developing my programming skills</strong>.
+      📖 Learning <strong>Software Development</strong>
+      💬 Ask me about <strong>VueJs, C# and SQL</strong>
+      ⚡ Fun fact: <strong>I still like my cat more than git</strong>
+    </td>
+    <td>
     <img width="300" alt="Followers" title="Follow me on GitHub" src="https://images.unsplash.com/photo-1505238680356-667803448bb6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="max-width: 100%;">
-  </div>
-</div>
+   </td>
+  </tr>
+</table>
 
 ---
 
