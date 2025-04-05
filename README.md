@@ -26,6 +26,12 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAll12&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisAll12&theme=dark&ring=4393FA&file=4393FA&currStreakNum=4393FA&currStreakLabel=4393FA&hide_border=true" alt="Github stats"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuisAll12&hide_border=true&show_icons=true&bg_color=151515&title_color=4393FA&icon_color=4393FA&text_bold=false&text_color=fff" alt="Your GitHub stats"/>
+</div>
 
 ---
 
