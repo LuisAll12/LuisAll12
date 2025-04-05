@@ -16,6 +16,7 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
 <p>📖 Learning <strong>Software Development</strong></p>
 <p>💬 Ask me about <strong>VueJs, C# and SQL</strong></p>
 <p>⚡ Fun fact: <strong>I still like my cat more than git</strong></p>
+<p>‼️Life is like a GitHub repo: if you don’t commit, nothing will change‼️</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
