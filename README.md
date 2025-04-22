@@ -27,7 +27,8 @@ I'm a **Junior Software Developer** and currently completing my apprenticeship a
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisAll12&hide_border=true&show_icons=true&bg_color=151515&title_color=%234393FA&icon_color=%234393FA&text_bold=false&text_color=fff" alt="Your GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luisall12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisall12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
