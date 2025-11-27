@@ -47,7 +47,7 @@
 ### 📌 Featured Projects
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAll12&repo=wsco-reservations&theme=default&title_color=000000&icon_color=0077b6&text_color=333333&bg_color=ffffff"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janickstucki&repo=chipslyfans&theme=default&title_color=000000&icon_color=0077b6&text_color=333333&bg_color=ffffff"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janikstucki&repo=chipslyfans&theme=default&title_color=000000&icon_color=0077b6&text_color=333333&bg_color=ffffff"/></a>
 </div>
 
 ---
