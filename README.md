@@ -54,7 +54,7 @@
 
 ### 📫 Connect with Me
 <div align="center">
-  <a href="mailto:luis@g-12.ch.com"><img width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+  <a href="mailto:luis@g-12.ch.ch"><img width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
   <a href="https://www.linkedin.com"><img width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
 </div>
 
